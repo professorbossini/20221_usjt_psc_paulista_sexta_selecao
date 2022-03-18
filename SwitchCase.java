@@ -7,8 +7,6 @@ public class SwitchCase {
        switch(nota){
            case 10:
                 JOptionPane.showMessageDialog(null, "Parabéns");
-                JOptionPane.showMessageDialog(null, "A");
-                break;
             case 9:
                 JOptionPane.showMessageDialog(null, "A");
                 break;
